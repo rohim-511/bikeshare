@@ -1,3 +1,16 @@
+Files Used
+The required files for running this program are:
+
+washington.csv
+new_york_city.csv
+chicago.csv
+You can download the files here https://drive.google.com/open?id=1F9gz_QotufukCjuaZ79ijw8aFTFtUL8n.
+
+Requirements
+This program was written in Python (version 3.7.1) and relies on the following libraries:
+
+pandas and numpy.
+
 # bikeshare
 Analyzing bike data of three cities Washington,Chicago and new_york_city
 Hello! Let's explore some US bikeshare data!
